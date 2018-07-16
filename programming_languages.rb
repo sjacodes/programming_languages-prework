@@ -10,8 +10,7 @@ end
 
 get_names(instructors)
 
-def get_people_from_a_place(people, place)
-  return people.select do |people|
+
     
   # use select
   # return a list of people from place
