@@ -14,5 +14,5 @@ def get_people_from_a_place(people, place)
   # DON'T USE EACH
   # use select
   # return a list of people from place
-  
+  return
 end
